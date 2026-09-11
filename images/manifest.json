@@ -1,0 +1,4 @@
+{
+ "_note": "Licensed product images for GSA LLC marketplace listings. One folder per Keystone VCPN under images/<VCPN>/; every entry MUST name its source and licence (brand data pool, brand dealer portal, or written permission on file at sales@) — never competitor photos. tools/ebay_images.py in the jarvis repo reads this file.",
+ "placeholder": {"source": "GSA LLC, generated 2026-09-11", "license": "own work — pipeline test image, never used on a published listing", "files": ["01.jpg"]}
+}
