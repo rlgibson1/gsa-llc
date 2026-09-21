@@ -1,5 +1,5 @@
 {
- "_note": "Licensed product images for GSA LLC marketplace listings. One folder per Keystone VCPN under images/<VCPN>/; every entry MUST name its source and licence (brand data pool, brand dealer portal, or written permission on file at sales@) — never competitor photos. tools/ebay_images.py in the jarvis repo reads this file.",
+ "_note": "Licensed product images for GSA LLC marketplace listings. One folder per supplier part number under images/<part>/; every entry MUST name its source and licence (brand data pool, brand dealer portal, or written permission on file with GSA LLC) — never competitor photos. tools/ebay_images.py in the jarvis repo reads this file.",
  "placeholder": {
   "source": "GSA LLC, generated 2026-09-11",
   "license": "own work — pipeline test image, never used on a published listing",
@@ -9,14 +9,14 @@
  },
  "O21101261": {
   "source": "https://www.owens-pro.com/products/running-board-mounting-bracket-kit-for-67692-01-14-23-jeep-cherokee-fits-limited-latitude-boards-heavy-gauge-steel-silver-10-1261-owens-products (image https://cdn.shopify.com/s/files/1/0815/7075/8955/files/10-1261.jpg)",
-  "license": "Owens Products written permission, email from sales@owensproducts.com 2026-09-14 15:08Z (RE: Product image permission - GSA LLC, Keystone dealer #176785): 'You may use the photos from our website to advertise your Owens Products official products.' Unmodified website image; evidence in the jarvis repo docs/handoff/keystone/image-permissions.md",
+  "license": "Manufacturer written permission on file (2026-09-14) to use unmodified website product images for advertising its official products; full record held privately by GSA LLC.",
   "files": [
    "01.jpg"
   ]
  },
  "O21OC7074ECXB": {
   "source": "https://www.owens-pro.com/products/running-boards-classicpro-series-extruded-2-inch-black-15-22-chevroletgmc-coloradocanyon-wo-flares-2-inch-riser-extended-cab-aluminum-black-owens-products (image https://cdn.shopify.com/s/files/1/0815/7075/8955/files/v9aaM2yM8PEmtUPhO26kQ0_0_gps_generated.png)",
-  "license": "Owens Products written permission, email from sales@owensproducts.com 2026-09-14 15:08Z (RE: Product image permission - GSA LLC, Keystone dealer #176785): 'You may use the photos from our website to advertise your Owens Products official products.' Unmodified website image; evidence in the jarvis repo docs/handoff/keystone/image-permissions.md",
+  "license": "Manufacturer written permission on file (2026-09-14) to use unmodified website product images for advertising its official products; full record held privately by GSA LLC.",
   "files": [
    "01.png"
   ]
